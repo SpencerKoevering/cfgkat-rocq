@@ -1,0 +1,11 @@
+.lia.cache
+*.vo
+*.vos
+*.vok
+*.glob
+rocqdoc/
+.CoqMakefile.d
+CoqMakefile.conf
+.vscode/extensions.json
+.*.aux
+html/

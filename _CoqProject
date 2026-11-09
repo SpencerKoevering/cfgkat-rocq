@@ -1,0 +1,39 @@
+-Q syntax CFGKAT.Syntax
+-Q semantics CFGKAT.Semantics
+-Q soundness CFGKAT.Soundness
+-Q completeness CFGKAT.Completeness
+-Q examples CFGKAT.Examples
+
+./completeness/BooleanAlgebraCompleteness.v
+./completeness/CFGKATCoalgebra.v
+./completeness/Completeness.v
+./completeness/FundamentalTheorem.v
+./completeness/gtnflem1.v
+./completeness/gtnflem2.v
+./completeness/gtnfthm.v
+./completeness/GuardedSumContext.v
+./completeness/SyntacticGuardedness.v
+./examples/ErosaHendrenLoopCase.v
+./examples/GhostVariableElimination.v
+./examples/main.v
+./examples/ShortCircuitTransform.v
+./examples/UsefulFacts.v
+./semantics/AutomataResolution.v
+./semantics/Bisimulation.v
+./semantics/ExpressionSemantics.v
+./semantics/FiniteModels.v
+./semantics/LabelExtraction.v
+./semantics/LoopInvariant.v
+./semantics/SyntacticAutomata.v
+./semantics/TransitionFunction.v
+./soundness/AssignmentLaws.v
+./soundness/BooleanAlgebraSoundness.v
+./soundness/CongruenceLaws.v
+./soundness/ContextualAxioms.v
+./soundness/ContextualDefinitions.v
+./soundness/GuardLaws.v
+./soundness/LoopLaws.v
+./soundness/SequenceLaws.v
+./soundness/Soundness.v
+./syntax/Axioms.v
+./syntax/Preliminaries.v

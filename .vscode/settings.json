@@ -1,0 +1,52 @@
+// .vscode/settings.json
+{
+  "files.exclude": {
+    "**/*.vo": true,
+    "**/*.vos": true,
+    "**/*.vok": true,
+    "**/*.vio": true,
+    "**/*.glob": true,
+
+    "**/*.v.d": true,
+    "**/*.vo.d": true,
+    "**/*.vos.d": true,
+    "**/*.vok.d": true,
+    "**/*.vio.d": true,
+
+    "**/*.aux": true,
+    "**/.*.aux": true,
+
+    "**/.coq-native/**": true,
+
+    "**/.lia.cache": true,
+    "**/.nia.cache": true,
+    "**/.nlia.cache": true,
+    "**/.nra.cache": true,
+    "**/.csdp.cache": true,
+
+    "**/RocqMakefile": true,
+    "**/RocqMakefile.conf": true,
+
+    "**/CoqMakefile": true,
+    "**/CoqMakefile.conf": true,
+    "**/Makefile.coq": true,
+    "**/Makefile.coq.conf": true,
+    "**/.Makefile.coq.d": true
+  },
+
+  "search.exclude": {
+    "**/*.vo": true,
+    "**/*.vos": true,
+    "**/*.vok": true,
+    "**/*.vio": true,
+    "**/*.glob": true,
+    "**/*.v.d": true,
+    "**/*.vo.d": true,
+    "**/*.vos.d": true,
+    "**/*.vok.d": true,
+    "**/*.vio.d": true,
+    "**/*.aux": true,
+    "**/.*.aux": true,
+    "**/.coq-native/**": true
+  }
+}
